@@ -1,6 +1,4 @@
 alabaster==0.7.12
-anaconda-client==1.7.2
-anaconda-project==0.8.3
 argh==0.26.2
 argon2-cffi==20.1.0
 asn1crypto==1.4.0
@@ -26,7 +24,6 @@ cffi==1.14.3
 chardet==3.0.4
 click==7.1.2
 cloudpickle==1.6.0
-clyent==1.2.2
 colorama==0.4.4
 contextlib2==0.6.0.post1
 cryptography==3.1.1
@@ -49,7 +46,6 @@ fsspec==0.8.3
 future==0.18.2
 gevent==20.9.0
 glob2==0.7
-gmpy2==2.0.8
 greenlet==0.4.17
 h5py==2.10.0
 HeapDict==1.0.1
@@ -92,9 +88,6 @@ MarkupSafe==1.1.1
 matplotlib==3.3.2
 mccabe==0.6.1
 mistune==0.8.4
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
 mock==4.0.2
 more-itertools==8.6.0
 mpmath==1.1.0
@@ -140,17 +133,14 @@ pycodestyle==2.6.0
 pycosat==0.6.3
 pycparser==2.20
 pycrypto==2.6.1
-pycurl==7.43.0.6
 pydocstyle==5.1.1
 pyflakes==2.2.0
 Pygments==2.7.2
 pylint==2.6.0
-pyodbc==4.0.0-unsupported
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 pyrsistent==0.17.3
 PySocks==1.7.1
-pytest==0.0.0
 python-dateutil==2.8.1
 python-jsonrpc-server==0.4.0
 python-language-server==0.35.1
@@ -166,7 +156,6 @@ QtPy==1.9.0
 regex==2020.10.15
 requests==2.24.0
 rope==0.18.0
-Rtree==0.9.4
 ruamel-yaml==0.15.87
 scikit-image==0.17.2
 scikit-learn==0.22.2.post1
